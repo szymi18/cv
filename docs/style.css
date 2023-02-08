@@ -32,7 +32,7 @@ body {
 
 .showcase:before {
   content: '';
-  background: url('https://images.pexels.com/photos/533923/pexels-photo-533923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center/cover;
+  background: url('https://cdn.wallpapersafari.com/32/3/S1jatp.jpg') no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
